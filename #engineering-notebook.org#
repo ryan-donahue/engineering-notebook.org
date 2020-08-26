@@ -1,0 +1,8 @@
+#+TAGS: emacs editor vim aws git sql linux
+#+TITLE: Engineering/Tech Notebook
+
+* Emacs
+* Emacs Org Mode
+** Tags
+   C-c C-q (org-set-tags-command)
+* Emacs Org Mode Advanced
